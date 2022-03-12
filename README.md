@@ -1,7 +1,4 @@
-## Olá, Eu sou o **Leandro Cesar Lobato**##
-📚 Atualmente estudando JavaScript, Frontend, UI/UX design.<br>
- 
-</div>
+## Olá, Eu sou o **Leandro Cesar Lobato 📚 Atualmente estudando JavaScript, Frontend, UI/UX design.
 <div align= "center" dir="auto">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lecelo&show_icons=truese&theme=algolia&border_color=0000ff&include_all_commits=true&count_private=true"/>
 
