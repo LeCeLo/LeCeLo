@@ -5,7 +5,7 @@
   📚 Atualmente estudo JavaScript, Frontend, UI/UX design.<br>
   👀 Meus interesses vão além de programação,Front end e Design.<br>Incluem Psicologia, Sociologia e Ciências Religiosas.
 </div>
-<div>
+<div dir="auto">
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=lecelo&show_icons=truese&theme=algolia&border_color=0000ff&include_all_commits=true&count_private=true"/>
 
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecelo&layout-compact&border_color=0000ff&langs_count-16&theme=algolia"/>
