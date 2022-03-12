@@ -12,7 +12,7 @@
    <a href="https://www.instagram.com/lecelo.lobato" terget="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
    
   </p>
-  <img src="https://www.lecelo.totalh.net/img/digitador.gif" align="right">
+  <img src="digitador200.gif" align="right">
   
 
 </div>
