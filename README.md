@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecelo&layout-compact&border_color=0000ff&langs_count-16&theme=algolia"/>
  <br>
  
- <div align="center"> <img src="digitador200.gif" width="250px"></div>
+ 
 
  <br>
   <p>
@@ -20,6 +20,7 @@
     <a href="https://www.linkedin.com/in/leandro-cesar-lobato-8b0a8196" terget="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    
   </p>
+  <div align="center"> <img src="digitador200.gif" width="250px"></div>
  
   
 
