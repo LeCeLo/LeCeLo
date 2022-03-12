@@ -1,4 +1,5 @@
 <div align="center">
+ 
 # Olá, Eu sou o **Leandro Cesar Lobato** 
  
   📚 Atualmente estudo JavaScript, Frontend, UI/UX design.<br>
@@ -11,8 +12,6 @@
 
 <img src="digitador200.gif" height = "175em">
  </div>
- <br>
- <br>
  <div align="center">
     <a href="mailto:lecelostudio@gmail.com" terget="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://api.whatsapp.com/send?l=pt-BR&phone=5541998270052&text=Github" terget="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
