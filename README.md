@@ -2,17 +2,17 @@
  
 # Olá, Eu sou o **Leandro Cesar Lobato** 
  
-   📚 Atualmente estudo JavaScript, Frontend, UI/UX design.<br>
+  📚 Atualmente estudo JavaScript, Frontend, UI/UX design.<br>
   👀 Meus interesses vão além de programação,Front end e Design.<br>Incluem Psicologia, Sociologia e Ciências Religiosas.
- 
-<img src="digitador200.gif" width="180px">
+</div>
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lecelo&show_icons=truese&theme=algolia&border_color=0000ff&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecelo&layout-compact&border_color=0000ff&langs_count-16&theme=algolia"/>
- <br>
- 
- 
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=lecelo&show_icons=truese&theme=algolia&border_color=0000ff&include_all_commits=true&count_private=true"/>
 
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecelo&layout-compact&border_color=0000ff&langs_count-16&theme=algolia"/>
+
+<img src="digitador200.gif" height = "200em">
+ </div>
+ <br>
  <br>
   <p>
     <a href="mailto:lecelostudio@gmail.com" terget="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
