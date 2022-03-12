@@ -13,9 +13,11 @@
   <img align="center" alt="Lecelo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <!--<img align="center" alt="Lecelo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lecelo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
-  
+  <img src="digitador200.gif" align = "right" height = "180em">
 </div>
- <img src="digitador200.gif" align = "right" height = "200em">
+ 
+ ##
+ 
  <div style="display: inline_block"><br>
     <a href="mailto:lecelostudio@gmail.com" terget="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     <a href="https://api.whatsapp.com/send?l=pt-BR&phone=5541998270052&text=Github" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
