@@ -1,5 +1,5 @@
 # 👋 Olá, Eu sou o **Leandro Cesar Lobato** | @LeCeLo
-- 👀 Meus interesses vão além de programação,Front-ende Design. Incluem Psicologia, Sociologia e Ciências Religiosas.</li>
+- 👀 Meus interesses vão além de programação,Front end e Design. Incluem Psicologia, Sociologia e Ciências Religiosas.</li>
 - 🌱 Atualmente estudo JavaScript, Frontend, UI/UX design.</li>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lecelo&show_icons=truese&theme=algolia&border_color=0000ff&include_all_commits=true&count_private=true"/>
