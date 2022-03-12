@@ -1,9 +1,12 @@
-# 👋 Olá, Eu sou o **Leandro Cesar Lobato** 
-<div align="center"><img src="digitador200.gif" width="180px"></div>
-
+<div align="center">
  
-- 👀 Meus interesses vão além de programação,Front end e Design. Incluem Psicologia, Sociologia e Ciências Religiosas.
-- 🌱 Atualmente estudo JavaScript, Frontend, UI/UX design.
+# Olá, Eu sou o **Leandro Cesar Lobato**
+ 
+<img src="digitador200.gif" width="180px">
+ 
+ 📚<br>Atualmente estudo JavaScript, Frontend, UI/UX design.<br>
+ 👀<br>Meus interesses vão além de programação,Front end e Design.<br>Incluem Psicologia, Sociologia e Ciências Religiosas.<br>
+
 
 
 <div>
@@ -22,7 +25,7 @@
     <a href="https://www.linkedin.com/in/leandro-cesar-lobato-8b0a8196" terget="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    
   </p>
-  
+  </div>
  
   
 
