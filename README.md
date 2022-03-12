@@ -1,4 +1,4 @@
-- 👋 Olá, Eu sou o Leandro Lobato | @LeCeLo
+- 👋 Olá, Eu sou o Leandro Cesar Lobato | @LeCeLo
 - 👀 Meus interesses vão além de programação,Front-ende Design. Incluem Psicologia, Sociologia e Ciências Religiosas.
 - 🌱 Atualmente estudo JavaScript, Frontend, UI/UX design.
 - 📫 How to reach me: leandrocesarlobato@gmail.com
