@@ -10,7 +10,7 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecelo&layout-compact&border_color=0000ff&langs_count-16&theme=algolia"/>
 
-<img src="digitador200.gif" height = "180em">
+<img src="digitador200.gif" height = "175em">
  </div>
  <br>
  <br>
