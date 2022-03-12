@@ -1,9 +1,11 @@
-# 👋 Olá, Eu sou o **Leandro Cesar Lobato** | @LeCeLo
+# 👋 Olá, Eu sou o **Leandro Cesar Lobato** 
+<div align="center"><img src="digitador200.gif" width="180px"></div>
+
+ 
+- 👀 Meus interesses vão além de programação,Front end e Design. Incluem Psicologia, Sociologia e Ciências Religiosas.
+- 🌱 Atualmente estudo JavaScript, Frontend, UI/UX design.
 
 
-
-- 👀 Meus interesses vão além de programação,Front end e Design. Incluem Psicologia, Sociologia e Ciências Religiosas.</li>
-- 🌱 Atualmente estudo JavaScript, Frontend, UI/UX design.</li>
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lecelo&show_icons=truese&theme=algolia&border_color=0000ff&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecelo&layout-compact&border_color=0000ff&langs_count-16&theme=algolia"/>
@@ -20,7 +22,7 @@
     <a href="https://www.linkedin.com/in/leandro-cesar-lobato-8b0a8196" terget="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    
   </p>
-  <div align="center"> <img src="digitador200.gif" width="250px"></div>
+  
  
   
 
