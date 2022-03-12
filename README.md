@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @LeCeLo
-- 👀 I’m interested in learn and share codes.
+- 👋 Olá, Eu sou o Leandro Lobato | @LeCeLo
+- 👀 Meus interesses vão além de programação,Front-ende Design. Incluem Psicologia, Sociologia e Ciências Religiosas.
 - 🌱 I’m currently learning JavaScript and Frontend.
-- 📫 How to reach me: leandrocesarlobato@gmail.com            
+- 📫 How to reach me: leandrocesarlobato@gmail.com
+
 
 <!---
 LeCeLo/LeCeLo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
