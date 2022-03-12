@@ -1,7 +1,4 @@
-<div align="center">
- 
 ## Olá, Eu sou o **Leandro Cesar Lobato**##
- 
 📚 Atualmente estudando JavaScript, Frontend, UI/UX design.<br>
  
 </div>
