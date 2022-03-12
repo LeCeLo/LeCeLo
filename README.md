@@ -1,6 +1,6 @@
 - 👋 Olá, Eu sou o Leandro Lobato | @LeCeLo
 - 👀 Meus interesses vão além de programação,Front-ende Design. Incluem Psicologia, Sociologia e Ciências Religiosas.
-- 🌱 I’m currently learning JavaScript and Frontend.
+- 🌱 Atualmente estudo JavaScript, Frontend, UI/UX design.
 - 📫 How to reach me: leandrocesarlobato@gmail.com
 
 
